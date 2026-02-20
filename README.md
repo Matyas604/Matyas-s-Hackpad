@@ -7,7 +7,7 @@ Everything is connected by four M3x16mm screws and M3x5mx4mm heatset inserts. Th
   <img src="Assets/CAD.png" alt="Matyas Hackpad" width="500">
 </p>
 <p align="center">
-  <strong>Made in Fusion360<strong>
+  <strong>Made in Fusion360</strong>
 </p>
 
 ## PCB:
@@ -25,7 +25,7 @@ Everything is connected by four M3x16mm screws and M3x5mx4mm heatset inserts. Th
   <img src="Assets/PCB.png" alt="Matyas Hackpad" width="500">
 </p>
 <p align="center">
-  <strong>Made in KiCad<strong>
+  <strong>Made in KiCad</strong>
 </p>
 
 ## Case:
@@ -33,7 +33,7 @@ Everything is connected by four M3x16mm screws and M3x5mx4mm heatset inserts. Th
   <img src="Assets/Case.png" alt="Matyas Hackpad" width="500">
 </p>
 <p align="center">
-  <strong>Made in Fusion360<strong>
+  <strong>Made in Fusion360</strong>
 </p>
 
 ## Firmware:
