@@ -40,7 +40,7 @@ Everything is connected by four M3x16mm screws and M3x5mx4mm heatset inserts. Th
 This Hackpad uses [QMK](https://qmk.fm/) firmware. The rotary encoder changes the volume, and the keys are just numbers for now, but I'll fix that later. 
 I plan to add VIA support in the future.
 
-## BOOM:
+## BOM:
 Here is everything you need to create this Hackpad:
 | Component | Amount |
 | :--- | :---: |
