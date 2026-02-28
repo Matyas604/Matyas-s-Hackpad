@@ -74,7 +74,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "C:/Users/já/Downloads/")
 		)
 	)
 	(net 0 "")
@@ -11381,7 +11381,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "MADE IN CZECHIA"
+	(gr_text "DESIGN MADE IN CZECHIA"
 		(at 202.15 142.9 0)
 		(layer "B.SilkS")
 		(uuid "22ff4bc4-7304-432e-879d-bd7f69ff537e")
