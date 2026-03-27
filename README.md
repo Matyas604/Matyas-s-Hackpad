@@ -37,8 +37,7 @@ Everything is connected by four M3x16mm screws and M3x5mx4mm heatset inserts. Th
 </p>
 
 ## Firmware:
-This Hackpad uses [QMK](https://qmk.fm/) firmware. The rotary encoder changes the volume, and the keys are just numbers for now, but I'll fix that later. 
-I plan to add VIA support in the future.
+This Hackpad uses [QMK](https://qmk.fm/) firmware. Everything can be controlled in VIA. I have five layers set up, and I can assign anything to each one; I switch between them with a single switch. My layers are Main, Media, HA (shortcuts for Home Assistant), Game, and Other. I can also adjust the effects, speed, brightness, and backlight colors directly from VIA.
 
 ## BOM:
 Here is everything you need to create this Hackpad:
