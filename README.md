@@ -4,7 +4,7 @@ It has 8 keys (7 switches + rotary encoder switch), a rotary encoder, and an OLE
 ## CAD Model:
 Everything is connected by four M3x16mm screws and M3x5mx4mm heatset inserts. The case is printed in two parts, top and bottom.
 <p align="center">
-  <img src="Assets/CAD.png" alt="Matyas Hackpad" width="500">
+  <img src="Assets/CAD.png" alt="Hackpad CAD" width="500">
 </p>
 <p align="center">
   <strong>Made in Fusion360</strong>
@@ -15,14 +15,14 @@ Everything is connected by four M3x16mm screws and M3x5mx4mm heatset inserts. Th
   Schematic
 </p>
 <p align="center">
-  <img src="Assets/Schematic.png" alt="Matyas Hackpad" width="500">
+  <img src="Assets/Schematic.png" alt="Hackpad schematic" width="500">
 </p>
 <br>
 <p align="center">
   PCB
 </p>
 <p align="center">
-  <img src="Assets/PCB.png" alt="Matyas Hackpad" width="500">
+  <img src="Assets/PCB.png" alt="Hackpad PCB" width="500">
 </p>
 <p align="center">
   <strong>Made in KiCad</strong>
@@ -30,7 +30,7 @@ Everything is connected by four M3x16mm screws and M3x5mx4mm heatset inserts. Th
 
 ## Case:
 <p align="center">
-  <img src="Assets/Case.png" alt="Matyas Hackpad" width="500">
+  <img src="Assets/Case.png" alt="Hackpad Case" width="500">
 </p>
 <p align="center">
   <strong>Made in Fusion360</strong>
@@ -38,11 +38,18 @@ Everything is connected by four M3x16mm screws and M3x5mx4mm heatset inserts. Th
 
 ## Firmware:
 This Hackpad uses [QMK](https://qmk.fm/) firmware. Everything can be controlled in VIA. I have five layers set up, and I can assign anything to each one. I switch between them with a single switch. My layers are Main, Media, HA (shortcuts for Home Assistant), Game, and Other. I can also adjust the effects, speed, brightness, and backlight colors of LEDs directly from VIA. The OLED display shows the name of the current page.
+<p align="center">
+  <img src="Assets/VIA configuration.png" alt="VIA Keymap Configuration" width="100%">
+</p>
+
+<p align="center">
+  <img src="Assets/VIA LED configuration.png" alt="VIA Underglow Lighting" width="100%">
+</p>
 
 ## Final result:
 <p align="center">
-  <img src="Assets/Hackpad photo.jpg" alt="Matyas Hackpad" width="45%">
-  <img src="Assets/Hackpad photo 2.jpg" alt="Matyas Hackpad" width="45%">
+  <img src="Assets/Hackpad photo.jpg" alt="Hackpad Final" width="45%">
+  <img src="Assets/Hackpad photo 2.jpg" alt="Hackpad Final" width="45%">
 </p>
 
 ## BOM:
