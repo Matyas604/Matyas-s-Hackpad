@@ -1,1 +1,8 @@
 WS2812_DRIVER = vendor
+RGBLIGHT_ENABLE = yes
+VIA_ENABLE = yes
+ENCODER_MAP_ENABLE = yes
+OLED_ENABLE = yes
+LTO_ENABLE = yes
+I2C_DRIVER = vendor
+
