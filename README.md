@@ -37,14 +37,12 @@ Everything is connected by four M3x16mm screws and M3x5mx4mm heatset inserts. Th
 </p>
 
 ## Firmware:
-This Hackpad uses [QMK](https://qmk.fm/) firmware. Everything can be controlled in VIA. I have five layers set up, and I can assign anything to each one. I switch between them with a single switch. My layers are Main, Media, HA (shortcuts for Home Assistant), Game, and Other. I can also adjust the effects, speed, brightness, and backlight colors of LEDs directly from VIA.
+This Hackpad uses [QMK](https://qmk.fm/) firmware. Everything can be controlled in VIA. I have five layers set up, and I can assign anything to each one. I switch between them with a single switch. My layers are Main, Media, HA (shortcuts for Home Assistant), Game, and Other. I can also adjust the effects, speed, brightness, and backlight colors of LEDs directly from VIA. The OLED display shows the name of the current page.
 
 ## Final result:
 <p align="center">
-  <img src="Assets/Hackpad photo.png" alt="Matyas Hackpad" width="500">
-</p>
-<p align="center">
-  <img src="Assets/Hackpad photo 2.png" alt="Matyas Hackpad" width="500">
+  <img src="Assets/Hackpad photo.jpg" alt="Matyas Hackpad" width="45%">
+  <img src="Assets/Hackpad photo 2.jpg" alt="Matyas Hackpad" width="45%">
 </p>
 
 ## BOM:
