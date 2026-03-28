@@ -67,3 +67,9 @@ Here is everything you need to create this Hackpad:
 | **M3x5mx4mm heatset insert** | 4x |
 | **Case** (2 printed parts) | 1x |
 | **PCB** | 1x |
+
+<hr>
+
+<p align="center">
+  Made with ❤️ by <a href="https://github.com/Matyas604">@Matyas604</a>
+</p>
