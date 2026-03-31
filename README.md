@@ -56,6 +56,7 @@ This Hackpad uses [QMK](https://qmk.fm/) firmware. Everything can be controlled 
     🎬 <b>HACKPAD DEMO HERE</b> 🎬
   </a>
 </p>
+I really enjoyed designing and building the hackpad. It was the very first project I designed from start to finish. I learned how to use Fusion and create PCBs in KiCAD. There were a few mistakes in the model, but they weren’t that big. I made only one mistake during assembly: I soldered the rotary encoder on the other side of the board, and when I desoldered it, I snapped off a leg, but there were two in the kit, so it was fine. The programming was a bit difficult, but in the end, I managed to do what I wanted. 
 
 ## BOM:
 Here is everything you need to create this Hackpad:
