@@ -52,6 +52,11 @@ This Hackpad uses [QMK](https://qmk.fm/) firmware. Everything can be controlled 
   <img src="Assets/Hackpad photo 2.jpg" alt="Hackpad Final" width="45%">
 </p>
 
+<p align="center">
+  <video src="Assets/Hackpad demo.mp4" width="500" controls>
+  </video>
+</p>
+
 ## BOM:
 Here is everything you need to create this Hackpad:
 | Component | Amount |
